@@ -1,2 +1,3 @@
-Item: A
-Price: 10
+Item: Pants
+Price: 100
+Discount: 13%
