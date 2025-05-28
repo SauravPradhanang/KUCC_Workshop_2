@@ -1,3 +1,3 @@
-Item: Napkin
-Price: 120
-Discount: 25%
+Item: Pants
+Price: 100
+Discount: 13%
