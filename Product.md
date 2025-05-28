@@ -1,2 +1,3 @@
-Item: A
-Price: 10
+Item: Napkin
+Price: 120
+Discount: 25%
