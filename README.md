@@ -1,3 +1,3 @@
 Hello I am Saurav Pradhanang
 Computer Science 
-Year II Semester I
+Year II Semester II
